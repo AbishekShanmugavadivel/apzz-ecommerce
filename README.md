@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛍️ Apzzz - Premium Ecommerce Platform
 
 A full-stack MERN ecommerce application with authentication, product management, and order processing.
@@ -236,3 +237,7 @@ For support and questions:
 ---
 
 **Built with ❤️ for the Apzzz ecommerce platform**
+=======
+# apzz-ecommerce
+My MERN ecommerce website
+>>>>>>> 0b11da01b296ee86e92d88184a7e89ef3fc858e6
